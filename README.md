@@ -1,4 +1,4 @@
-# R for enterprise advanced analytics
+# R for enterprise advanced analytics @ Microsoft
 
 Our mission is to empower enterprises to easily and cost-effectively build high-scale analytics solutions leveraging R.
 
