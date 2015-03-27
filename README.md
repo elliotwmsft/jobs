@@ -1,6 +1,6 @@
 # R for enterprise advanced analytics
 
-Our mission is to empower every enterprise to easily and cost-effectively build high-scale analytics solutions leveraging R.
+Our mission is to empower enterprises to easily and cost-effectively build high-scale analytics solutions leveraging R.
 
 Exponential growth has transformed data into a new natural resource. Every industry has focused on exploiting data analytics for competitive advantage. Business applications of advanced analytics abound: consumer companies doing targeted marketing, financial firms scoring customer credit-worthiness, retailers managing product promotions, manufacturers detecting anomalies in sensor data, & many more.
 
