@@ -16,6 +16,8 @@ We're seeking strong highly motivated software engineers, program managers, & so
 |Software Engineer II|912676|[Link](https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=173700&jlang=en&pp=ss)|
 |Software Engineer II|912672|[Link](https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=173698&jlang=en&pp=ss)|
 |Senior Software Engineer|912677|[Link](https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=173711&jlang=en&pp=ss)|
+|Senior Software Engineer|912680|[Link](https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=4&jid=173714&jlang=EN&pp=SS)|
 |Senior Software Engineer|912683|[Link](https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=173702&jlang=en&pp=ss)|
+|Senior Software Engineer|912684|[Link](https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=6&jid=173707&jlang=en&pp=ss)|
 |Principal Software Engineering Manager|912685|[Link](https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=173712&jlang=en&pp=ss)|
 |Principal Software Engineering Manager|904942|[Link](https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=168402&jlang=en&pp=ss)|
